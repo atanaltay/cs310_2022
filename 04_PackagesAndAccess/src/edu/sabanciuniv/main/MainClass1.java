@@ -25,7 +25,7 @@ public class MainClass1 {
 		
 		
 		Car car = new Car();
-		
+	
 		//Fields below are not accessable
 		//car.year
 		//car.currentSpeed
